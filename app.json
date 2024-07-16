@@ -1,8 +1,8 @@
 {
-    "name": "VENOCYBER MD session",
-    "description": "VENOCYBER-MD WA bot, Created by Venocyber King jux to simplify your digital lives",
+    "name": "MRSKY MD session",
+    "description": "MRSKY-MD WA bot, Created by Mrsky  to simplify your digital lives",
     "logo": "https://telegra.ph/file/12b0fb245e6b8ba4bf718.jpg",
-    "repository": "https://github.com/kingjux/Venocyber-Md-Session",
+    "repository": "https://github.com/Mrskymax/mrsky-Md-Session",
     "keywords": ["VenocyberMd"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
