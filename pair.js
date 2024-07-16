@@ -56,22 +56,20 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Venocyber_Tech.sendMessage(Pair_Code_By_Venocyber_Tech.user.id, { text: '' + b64data });
 
                let VENOCYBER_MD_TEXT = `
-*_Pair Code Connected by Venocyber Tech_*
+*_Pair Code Connected by Mrsky Tech_*
 *_Made With 🤍_*
 ______________________________________
 ╔════◇
-║ *『 WOW YOU CHOOSEN VENOCYBER-MD 』*
+║ *『 WOW YOU CHOOSEN MRSKY-MD 』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚══════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _youtube.com/@JASTINMTEWA-vn9pl_
-║❒ *Owner:* _https://wa.me/message/A4QG2JZKBXFTN1_
-║❒ *Repo:* _https://github.com/Kingjux/venocyber-md_
-║❒ *WaGroup:* _https://chat.whatsapp.com/HSln3blDuuuKvC8njxyCCN_
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaYauR9ISTkHTj4xvi1l_
-║❒ *Plugins:* _https://github.com/Kingjux/venocyber-md-plugins_
-╚══════════════════════╝ 
+║❒ 🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
+║❒ *Owner:* _https://wa.link/7y8k5h_
+║❒ *Repo:* _https://github.com/Mrskymax/Mrsky-md_
+║❒ *WaGroup:* _https://chat.whatsapp.com/HJgOTkcWL0BBqpsMm5cT6T_
+╚═════════════════════╝ 
 _____________________________________
 
 _Don't Forget To Give Star To My Repo_`
